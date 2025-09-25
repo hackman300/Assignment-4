@@ -1,4 +1,3 @@
-# Selected question from timed_challenge.txt:
 # 3. Remove Duplicates (Keep Order)
 def remove_duplicates_keep_order(items):
     data = set()
